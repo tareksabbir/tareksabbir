@@ -1,4 +1,4 @@
-<img width="100%" height="auto" src="new.jpg" height="175px"/>
+<img width="100%" height="auto" src="new.png" height="175px"/>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Tarek</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Bangladesh.</h3>
@@ -74,11 +74,3 @@
 <a href="https://discord.gg/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#" height="30" width="40" /></a>
 </p>
 <br>
-<h3 align="center">  ❤ Views and Followers</h3>
-
-<p align="center">
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=tareksabbir">
-</a>
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/tareksabbir?label=Followers&style=social" alt="GitHub Badge"></a>
-</p>
