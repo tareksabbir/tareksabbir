@@ -38,18 +38,7 @@
     </a>
 </p>
 
-<br>
-<h3 align="center">  📊 My Github Stats</h3>
 
-
-  <br/>
-  <div align="center">
-    <a href="https://github.com/tareksabbir/github-readme-stats"><img alt="Md Tarek Rahman's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tareksabbir&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-
-  </div>
-
-
-<br/>
 <br/>
 
 <a href="https://github.com/tareksabbir/github-readme-activity-graph"><img alt="Md Tarek Rahman's  Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tareksabbir&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
