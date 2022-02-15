@@ -41,10 +41,3 @@
 <a href="https://github.com/tareksabbir/github-readme-activity-graph"><img alt="Md Tarek Rahman's  Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tareksabbir&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
-<br/>
-
-<h3 align="center">  Connect with me:</h3>
-
-<p align="center">
-<a href="https://linkedin.com/in/#" target="blank"><img align="center" src="https://www.linkedin.com/in/md-tarek-rahman-b88040194/" alt="#" height="30" width="40" /></a>
-<br>
