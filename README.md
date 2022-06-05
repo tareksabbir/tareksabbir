@@ -1,6 +1,6 @@
 <img width="100%" height="auto" src="5184379-ai-2.png" height="175px"/>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px" hight="10px" >, I'm Tarek</h1>
+<h1 align="center">Hi, I'm Tarek</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Bangladesh.</h3>
 
 
