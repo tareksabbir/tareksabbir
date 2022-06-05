@@ -1,7 +1,7 @@
 <img width="100%" height="auto" src="5184379-ai-2.png" height="175px"/>
 
 <h1 align="center">Hi, I'm Tarek</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from Bangladesh.</h3>
+<h3 align="center">I'm a passionate Front-End Developer from Bangladesh.</h3>
 
 
 
