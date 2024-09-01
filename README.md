@@ -1,10 +1,7 @@
 <img width="100%" height="auto" src="Blue Modern Gradient Technology LinkedIn Banner (5).png" height="175px"/>
 
-<h1 align="center">Hi, I'm Tarek</h1>
-<h3 align="center">I'm a passionate Front-End Developer from Bangladesh.</h3>
 
-
-# Hi there, I'm Tarek! 👋
+# About Me 👋
 
 I'm a passionate Front-End Developer from Bangladesh with a strong enthusiasm for crafting beautiful and functional web applications. Currently, I'm focusing on mastering Data Structures and Algorithms to level up my problem-solving skills and coding efficiency. 🌱
 
