@@ -10,13 +10,15 @@ Thanks for visiting! 😄
     <img 
         src="https://github-readme-streak-stats.herokuapp.com/?user=tareksabbir&theme=react&hide_border=false" 
         alt="GitHub Streak Stats" 
-        style="flex: 1; height: auto; max-height: 200px; object-fit: cover; width: 48%;"
+        style="height: 100px; object-fit: cover; width: auto; max-width: 48%;"
     />
     <img 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=tareksabbir&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact" 
         alt="GitHub Top Languages" 
-        style="flex: 1; height: auto; max-height: 200px; object-fit: cover; width: 48%;"
+        style="height: 100px; object-fit: cover; width: auto; max-width: 48%;"
     />
+</div>
+
 </div>
 
 
