@@ -6,18 +6,14 @@ I'm a Front-End Developer from Bangladesh with a passion for creating beautiful 
 
 Thanks for visiting! 😄
 
-<div style="display: flex; flex-direction: row; justify-content: space-between; width: 100%; gap: 10px;">
+<div style="width: 100%; height: 170px; overflow: hidden;">
     <img 
         src="https://github-readme-streak-stats.herokuapp.com/?user=tareksabbir&theme=react&hide_border=false" 
         alt="GitHub Streak Stats" 
-        style="height: 170px; object-fit: cover; width: auto; max-width: 48%;"
-    />
-    <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=tareksabbir&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact" 
-        alt="GitHub Top Languages" 
-        style="height: 170px; object-fit: cover; width: auto; max-width: 48%;"
+        style="height: 170px; width: 100%; object-fit: cover;"
     />
 </div>
+
 
 
 
