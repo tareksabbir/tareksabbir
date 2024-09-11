@@ -6,16 +6,13 @@ I'm a Front-End Developer from Bangladesh with a passion for creating beautiful 
 
 Thanks for visiting! 😄
 
-<div style="width: 100%; height: 170px; overflow: hidden;">
+<div style="display: flex; justify-content: center; align-items: center; width: 100%; height: 170px; overflow: hidden;">
     <img 
         src="https://github-readme-streak-stats.herokuapp.com/?user=tareksabbir&theme=react&hide_border=false" 
         alt="GitHub Streak Stats" 
-        style="height: 170px; width: 100%; object-fit: cover;"
+        style="height: 170px; width: auto; object-fit: cover;"
     />
 </div>
-
-
-
 
 
 <br/>
