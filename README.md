@@ -6,12 +6,10 @@ I'm a Front-End Developer from Bangladesh with a passion for creating beautiful 
 
 Thanks for visiting! 😄
 
-<p align="center">
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tareksabbir&theme=react&hide_border=false" />
+</div>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=tareksabbir&theme=react&hide_border=false)<br/>
-
-
-</p>
 
 
 
