@@ -6,9 +6,9 @@ I'm a Front-End Developer from Bangladesh with a passion for creating beautiful 
 
 Thanks for visiting! 😄
 
-<div align="center" style="max-height: 150px; overflow: hidden;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tareksabbir&theme=react&hide_border=false" style="max-height: 150px; width: auto;" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tareksabbir&theme=react&hide_border=false" height="150" />
+</p>
 
 
 
