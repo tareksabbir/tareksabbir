@@ -8,7 +8,7 @@ Thanks for visiting! 😄
 
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tareksabbir&theme=react&hide_border=false" style="max-height: 200px; width: auto;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tareksabbir&theme=react&hide_border=false" style="max-height: 150px; width: auto;" />
 </div>
 
 
