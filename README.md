@@ -10,9 +10,6 @@ Thanks for visiting! 😄
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tareksabbir&theme=react&hide_border=false" height="150" />
 </p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=tareksabbir&theme=react&hide_border=false)<br/>
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
