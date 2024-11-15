@@ -1,4 +1,4 @@
-<img width="100%" height="auto" src="Blue Modern Gradient Technology LinkedIn Banner (5).png" height="175px"/>
+<img width="100%" height="auto" src="cover.jpej" height="175px"/>
 
 ## About Me 👋
 
