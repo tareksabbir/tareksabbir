@@ -1,4 +1,4 @@
-<img width="100%" height="auto" src="cover.jpej" height="175px"/>
+<img width="100%" height="auto" src="cover.jpeg" height="175px"/>
 
 ## About Me 👋
 
