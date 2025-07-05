@@ -1,12 +1,5 @@
 <img width="100%" height="auto" src="coverphoto.png" height="175px"/>
 
-## About Me 👋
-
-I'm a Front-End Developer from Bangladesh with a passion for creating beautiful and functional web applications. I specialize in **JavaScript**, **HTML5**, **CSS3**, and modern frameworks like **React** and **Redux**. Currently, I’m focused on mastering **Data Structures and Algorithms** to enhance my problem-solving skills and code efficiency.I’m skilled in using tools such as **Git**, **Webpack**, and **Figma**, and I have experience with **Node.js**, **Express**, and **MongoDB**. Outside of coding, I enjoy gaming and hitting the gym to stay balanced and motivated.Feel free to explore my Portfolio and check out my projects on GitHub Let’s connect and collaborate on exciting projects!
-
-Thanks for visiting! 😄
-
-
 # 🇧🇩 RNext — React & Next.js Bangla Documentation
 
 Welcome to **RNext** — an open-source initiative aimed at breaking language barriers in tech by providing **React** and **Next.js** documentation in **Bangla**, explained in the **simplest, most beginner-friendly** way possible.
@@ -19,10 +12,10 @@ Welcome to **RNext** — an open-source initiative aimed at breaking language ba
 
 **RNext** is more than just documentation — it's a **community-driven learning experience** designed to:
 
-- 📚 Explain React and Next.js concepts in Bangla
-- 🤝 Foster mentorship vibes — like a friend helping a friend
-- 🧠 Simplify complex topics using real-life analogies and contextual examples
-- 🌱 Empower Bengali-speaking developers, especially beginners, to learn with confidence
+-  Explain React and Next.js concepts in Bangla
+-  Foster mentorship vibes — like a friend helping a friend
+-  Simplify complex topics using real-life analogies and contextual examples
+-  Empower Bengali-speaking developers, especially beginners, to learn with confidence
 
 ---
 
@@ -32,13 +25,11 @@ Check out the live site:
 
 🔗 [RNext (Live)](https://lnkd.in/giZgWE7u)
 
+## About Me 👋
 
-<!-- <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tareksabbir&theme=react&hide_border=false" height="150" />
-</p> -->
+I'm a Front-End Developer from Bangladesh with a passion for creating beautiful and functional web applications. I specialize in **JavaScript**, **HTML5**, **CSS3**, and modern frameworks like **React** and **Redux**. Currently, I’m focused on mastering **Data Structures and Algorithms** to enhance my problem-solving skills and code efficiency.I’m skilled in using tools such as **Git**, **Webpack**, and **Figma**, and I have experience with **Node.js**, **Express**, and **MongoDB**. Outside of coding, I enjoy gaming and hitting the gym to stay balanced and motivated.Feel free to explore my Portfolio and check out my projects on GitHub Let’s connect and collaborate on exciting projects!
 
-
-
+Thanks for visiting! 😄
 
 
 ## Tech Stack:
