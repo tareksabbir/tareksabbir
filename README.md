@@ -7,6 +7,53 @@ I'm a Front-End Developer from Bangladesh with a passion for creating beautiful 
 Thanks for visiting! 😄
 
 
+# 🇧🇩 RNext — React & Next.js Bangla Documentation
+
+Welcome to **RNext** — an open-source initiative aimed at breaking language barriers in tech by providing **React** and **Next.js** documentation in **Bangla**, explained in the **simplest, most beginner-friendly** way possible.
+
+> _“Because sometimes all a beginner needs is a friend, or a big brother, to explain things in their own words.”_
+
+---
+
+## 🚀 What is RNext?
+
+**RNext** is more than just documentation — it's a **community-driven learning experience** designed to:
+
+- 📚 Explain React and Next.js concepts in Bangla
+- 🤝 Foster mentorship vibes — like a friend helping a friend
+- 🧠 Simplify complex topics using real-life analogies and contextual examples
+- 🌱 Empower Bengali-speaking developers, especially beginners, to learn with confidence
+
+---
+
+## 📘 Topics Covered
+
+We’re actively working to cover the **entire React and Next.js ecosystem**. Some of the current and upcoming topics include:
+
+- React Core Concepts
+  - Components
+  - JSX
+  - Props & State
+  - Hooks (useState, useEffect, useContext, etc.)
+  - Conditional Rendering
+  - Event Handling
+  - Context API
+- Next.js Fundamentals
+  - Pages & Routing
+  - Data Fetching (SSR, SSG, ISR)
+  - API Routes
+  - Middleware
+  - Deployment
+- Bonus: Real-life examples, analogy-based explanations, and visualizations
+
+---
+
+## 🌐 Live Project
+
+Check out the live site:
+
+🔗 [RNext (Live)](https://lnkd.in/giZgWE7u)
+
 
 <!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tareksabbir&theme=react&hide_border=false" height="150" />
