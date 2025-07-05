@@ -1,29 +1,13 @@
 <img width="100%" height="auto" src="coverphoto.png" height="175px"/>
 
-# 🇧🇩 RNext — React & Next.js Bangla Documentation
+## 🇧🇩 RNext — React & Next.js Bangla Documentation
 
-Welcome to **RNext** — an open-source initiative aimed at breaking language barriers in tech by providing **React** and **Next.js** documentation in **Bangla**, explained in the **simplest, most beginner-friendly** way possible.
+Welcome to **RNext** — an open-source initiative aimed at breaking language barriers in tech by providing **React** and **Next.js** documentation in **Bangla**, explained in the **simplest, most beginner-friendly** way possible. visit the reactnext repo
 
 > _“Because sometimes all a beginner needs is a friend, or a big brother, to explain things in their own words.”_
 
 ---
 
-## 🚀 What is RNext?
-
-**RNext** is more than just documentation — it's a **community-driven learning experience** designed to:
-
--  Explain React and Next.js concepts in Bangla
--  Foster mentorship vibes — like a friend helping a friend
--  Simplify complex topics using real-life analogies and contextual examples
--  Empower Bengali-speaking developers, especially beginners, to learn with confidence
-
----
-
-## 🌐 Live Project
-
-Check out the live site:
-
-🔗 [RNext (Live)](https://lnkd.in/giZgWE7u)
 
 ## About Me 👋
 
