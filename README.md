@@ -26,28 +26,6 @@ Welcome to **RNext** — an open-source initiative aimed at breaking language ba
 
 ---
 
-## 📘 Topics Covered
-
-We’re actively working to cover the **entire React and Next.js ecosystem**. Some of the current and upcoming topics include:
-
-- React Core Concepts
-  - Components
-  - JSX
-  - Props & State
-  - Hooks (useState, useEffect, useContext, etc.)
-  - Conditional Rendering
-  - Event Handling
-  - Context API
-- Next.js Fundamentals
-  - Pages & Routing
-  - Data Fetching (SSR, SSG, ISR)
-  - API Routes
-  - Middleware
-  - Deployment
-- Bonus: Real-life examples, analogy-based explanations, and visualizations
-
----
-
 ## 🌐 Live Project
 
 Check out the live site:
