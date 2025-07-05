@@ -1,4 +1,4 @@
-<img width="100%" height="auto" src="coverphoto.png" height="175px"/>
+<img width="100%" height="auto" src="linkedin cover (3).png" height="175px"/>
 
 ## 🇧🇩 RNext — React & Next.js Bangla Documentation
 
