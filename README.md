@@ -11,7 +11,12 @@ Welcome to **RNext** — an open-source initiative aimed at breaking language ba
 
 ## About Me 👋
 
-I'm a Front-End Developer from Bangladesh with a passion for creating beautiful and functional web applications. I specialize in **JavaScript**, **HTML5**, **CSS3**, and modern frameworks like **React** and **Redux**. Currently, I’m focused on mastering **Data Structures and Algorithms** to enhance my problem-solving skills and code efficiency.I’m skilled in using tools such as **Git**, **Webpack**, and **Figma**, and I have experience with **Node.js**, **Express**, and **MongoDB**. Outside of coding, I enjoy gaming and hitting the gym to stay balanced and motivated.Feel free to explore my Portfolio and check out my projects on GitHub Let’s connect and collaborate on exciting projects!
+Full-Stack Software Engineer with 3+ years of experience building and shipping high-performance web applications for real users at scale. I work across the entire stack designing system architecture, writing production-grade backend APIs, and crafting responsive frontends.
+
+Previously at Lindrope (UK) — leading development of a scalable platform with a Notion-style editor, a Medium-inspired blogging system, and a full-featured LMS with payment integration.
+
+Previously at Deshi Bazar (UK) — built and launched a high-traffic e-commerce platform serving 10,000+ monthly customers.
+I'm particularly interested in AI/LLM integration, real-time systems, and SaaS architecture. I don't just write features — I think in systems, optimize for scale, and ship things that work.
 
 Thanks for visiting! 😄
 
