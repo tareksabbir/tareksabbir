@@ -13,10 +13,10 @@ Welcome to **RNext** — an open-source initiative aimed at breaking language ba
 
 Full-Stack Software Engineer with 3+ years of experience building and shipping high-performance web applications for real users at scale. I work across the entire stack designing system architecture, writing production-grade backend APIs, and crafting responsive frontends.
 
-Previously at Lindrope (UK) — leading development of a scalable platform with a Notion-style editor, a Medium-inspired blogging system, and a full-featured LMS with payment integration.
+Previously at Lindrope (UK)  leading development of a scalable platform with a Notion-style editor, a Medium-inspired blogging system, and a full-featured LMS with payment integration.
 
-Previously at Deshi Bazar (UK) — built and launched a high-traffic e-commerce platform serving 10,000+ monthly customers.
-I'm particularly interested in AI/LLM integration, real-time systems, and SaaS architecture. I don't just write features — I think in systems, optimize for scale, and ship things that work.
+Previously at Deshi Bazar (UK)  built and launched a high-traffic e-commerce platform serving 10,000+ monthly customers.
+I'm particularly interested in AI/LLM integration, real-time systems, and SaaS architecture. I don't just write features . I think in systems, optimize for scale, and ship things that work.
 
 Thanks for visiting! 😄
 
@@ -28,19 +28,6 @@ Thanks for visiting! 😄
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## Impact by the Numbers
- 
-| Metric | Result |
-|---|---|
-| Monthly active users served | 10,000+ |
-| Frontend performance improvement | 40% faster |
-| Booking conflict rate (after fix) | < 1% |
-| Code generation consistency (Ollio AI) | 95% |
-| Mobile responsiveness improvement | 50% |
-| SEO score achieved | 99% |
-| Cart abandonment reduction | 18% |
- 
----
  
 ## Awards & Recognition
  
@@ -51,34 +38,4 @@ Thanks for visiting! 😄
 🥈 **1st Runner-Up** — CTO Forum National Innovation Hackathon 2022
  
 🏅 **Merit Award** — BASIS National ICT Awards 2022
- 
----
- 
-## GitHub Stats
- 
-<div align="center">
-![Tarek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tareksabbir&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
- 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tareksabbir&layout=compact&theme=tokyonight&hide_border=true)
- 
-![GitHub Streak](https://streak-stats.demolab.com?user=tareksabbir&theme=tokyonight&hide_border=true)
- 
-</div>
----
- 
-## Currently
- 
-- 🔨 Building at **Lindrope** — Notion-style editor + LMS platform (UK remote)
-- 🧠 Deepening expertise in **LLM-powered systems** and **distributed architecture**
-- 📦 Exploring **Inngest**, **E2B sandboxes**, and **durable execution patterns**
-- 🌐 Open to interesting **freelance** and **collaboration** opportunities
----
- 
-<div align="center">
-*"I don't just write code — I build systems that work at scale."*
- 
-![Profile Views](https://komarev.com/ghpvc/?username=tareksabbir&color=0e75b6&style=flat-square)
- 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=80&section=footer" width="100%"/>
-</div>
  
